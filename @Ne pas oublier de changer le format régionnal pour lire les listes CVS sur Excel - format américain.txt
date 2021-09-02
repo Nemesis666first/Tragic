@@ -1,0 +1,4 @@
+Région => Date, heure & paramètres régionaux supplémentaire > Région - Modifier lesformats de date, d'heure ou de nombre > Paramètres supplémentaires
+
+Symbole de décimale : .
+Séparateur de liste : ,

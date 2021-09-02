@@ -1,0 +1,7 @@
+1 - Si l'image est blanche sur fond transparent, il faut inverser les couleurs :
+=> Edition > Modifier les couleurs > Inverser les couleurs.
+2 - On vectorise & on décompose :
+=> Objet > Vecto > Créer & Décomposer
+3 - On dissocie.
+=> Clique droit > Dossocier.
+4 - Avant de delete le fond blanc, on vérifie que ça bouffait pas des détails.
